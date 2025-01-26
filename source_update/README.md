@@ -14,7 +14,7 @@ This repository contains scripts designed to automate the setup and deployment o
 
 ## Usage
 
-The `setup.sh` script will perform the following tasks:
+The `main.sh` script will perform the following tasks:
 
 1. Clone the Yadgah repository from GitHub.
 2. Set up a Python virtual environment.
