@@ -1,4 +1,4 @@
-# Developer Setup Script
+# Developer Setup Script (Developer)
 
 This script is intended for developers who want to set up the Yadgah project locally. By running this script, the necessary initial setup commands are automatically executed, including creating a virtual environment, installing dependencies, and applying migrations.
 
