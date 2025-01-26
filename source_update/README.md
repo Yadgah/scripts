@@ -1,4 +1,4 @@
-# Automatic Update Server Source Scripts
+# Automatic Update Server Source Scripts (Server Admins)
 
 This repository contains scripts designed to automate the setup and deployment of the Yadgah project. These scripts streamline the process of cloning the repository, setting up the virtual environment, installing dependencies, migrating databases, and more.
 
