@@ -22,4 +22,3 @@ The `main.sh` script will perform the following tasks:
 4. Replace media files and SQLite database from the main project folder.
 5. Run database migrations to ensure your database is up-to-date.
 6. Clean up temporary files and prepare the project for use.
-این ساختار پایه‌ای است که شما می‌توانید به دلخواه خود تغییر دهید یا توسعه دهید.
