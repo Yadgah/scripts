@@ -40,6 +40,11 @@ log "Applying migrations..."
 python Yadgah/manage.py migrate
 log "Migrations applied."
 
+# Create staticfiles
+log "Creating staticfiles"
+python Yadgah/manage.py collectstatic
+log "staticfiles Created"
+
 # Clean up
 log "Cleaning up temporary files..."
 rm -rf Yadgah_main
